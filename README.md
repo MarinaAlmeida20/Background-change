@@ -1,7 +1,7 @@
 # Background change
 
-## Behaivior
+## Behavior
 
 
  
-![Mobile](https://github.com/MarinaAlmeida20/Search-Movie/blob/main/assets/PortMovieResp.gif?raw=true)
+![behavior](https://github.com/MarinaAlmeida20/Background-change/blob/main/assets/backgroundChange.gif?raw=true)
